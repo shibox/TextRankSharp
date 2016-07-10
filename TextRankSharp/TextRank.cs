@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TextRankSharp
 {
-    public class Class1
+    /// <summary>
+    /// 关键词提取
+    /// </summary>
+    public class TextRank
     {
+
     }
 }
